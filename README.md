@@ -35,4 +35,3 @@ ER-Diagram
 
 Thank You ! 
 
-![image](https://user-images.githubusercontent.com/103960690/193397636-410a06dc-054c-4b6d-b832-03521086ef16.png)
